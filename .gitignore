@@ -8,3 +8,7 @@
 /.idea/description.html
 /.idea/copyright/profiles_settings.xml
 /.idea/compiler.xml
+/out/production/word_guess_fun/WordGuessDriver.class
+/out/production/word_guess_fun/WordGuess.class
+/out/production/word_guess_fun/WordGuess_Test.class
+/out/production/word_guess_fun/Dictionary.class

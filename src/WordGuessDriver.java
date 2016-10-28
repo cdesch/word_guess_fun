@@ -55,7 +55,8 @@ public class WordGuessDriver
         System.out.println("Welcome to CS139 -- Word Guess!!\n");
         do
         {
-            word = words.getWord();
+            word = words.getWord(); //We got this word
+            System.out.println("Word: "+ word);
             guessCount = 0;
             userGuesses = "";
 
